@@ -19,3 +19,11 @@ N/A
 ## License
 
 N/A
+
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/4fe7c89e-b709-4226-a50a-a8fe19b08699)
+
+## Deployed Site 
+
+https://chai-bender.github.io/code-refactor/
